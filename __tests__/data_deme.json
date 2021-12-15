@@ -1,0 +1,8 @@
+{
+  "debug": false,
+  "sandbox": true,
+  "app_id": "",
+  "secretkey": "",
+  "merchant_id": "",
+  "chain_store_id": 0
+}
